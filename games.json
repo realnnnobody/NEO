@@ -1,0 +1,554 @@
+[
+  {
+    "title": "I am Cat",
+    "category": "-",
+    "desc": "Відчуйте себе котом, який досліджує дім і бешкетує.",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3016840/header.jpg?t=1774857759",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Spatial Zombies",
+    "category": "-",
+    "desc": "Відстрілюйте натовпи зомбі у напружених просторових боях.",
+    "imageUrl": "https://cdn.sidequestvr.com/file/3145054/491818878_24905561105771065_7214809891333911872_n.webp",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Pistol Whip",
+    "category": "-",
+    "desc": "Рухайтеся в ритм музики й розстрілюйте ворогів у стильному екшені.",
+    "imageUrl": "https://images.pushsquare.com/787e987130f15/pistol-whip-ps4-playstation-4-vr-psvr.large.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Job Simulator",
+    "category": "-",
+    "desc": "Спробуйте кумедну симуляцію роботи в абсурдному майбутньому.",
+    "imageUrl": "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENT8WA9yyt7r25Azmva8Cg0/PREVIEW_SCREENSHOT8_118543.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Epic Roller Coasters",
+    "category": "-",
+    "desc": "Прокатіться на американських гірках з максимальною VR-динамікою.",
+    "imageUrl": "https://i.ytimg.com/vi/XLoIbN6TOYk/maxresdefault.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Beat Saber",
+    "category": "-",
+    "desc": "Розбивайте неонові блоки світловими мечами строго в ритм треку.",
+    "imageUrl": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2018/11/beat-saber-6.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "I Expect You To Die 3",
+    "category": "-",
+    "desc": "Розв’язуйте смертельно небезпечні шпигунські головоломки в стилі агента.",
+    "imageUrl": "https://i.ytimg.com/vi/G-ytteGjbao/maxresdefault.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Red Matter 2",
+    "category": "-",
+    "desc": "Досліджуйте фантастичний науково-фантастичний світ із атмосферним сюжетом.",
+    "imageUrl": "https://hb.imgix.net/101ca1bd650537e8cf9f41040137dc2a304fd7c2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=a960662bb9a7ad3fa5f7ed6b40d22d7b",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Animal Rivals VR",
+    "category": "-",
+    "desc": "Беріть участь у веселих битвах тварин у VR-арені.",
+    "imageUrl": "https://animalrivalsvr.com/og-image.png",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "SUPERHOT VR",
+    "category": "-",
+    "desc": "Знищуйте ворогів у шутері, де час рухається лише разом із вами.",
+    "imageUrl": "https://www.gammavr.com/wp-content/uploads/2021/04/superhot-vr-5-min.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Crisis Brigade 2 Reloaded",
+    "category": "-",
+    "desc": "Відбивайте атаки ворогів у динамічному VR-шутері з укриттями.",
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1917/1Vz5XDxrgOK8pHbHG7CjyirM.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "STARVAULT",
+    "category": "-",
+    "desc": "Занурюйтесь у космічні бої та футуристичну VR-дію.",
+    "imageUrl": "https://cdn.sidequestvr.com/file/2123829/background-image.png",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "War of Wizards",
+    "category": "-",
+    "desc": "Вступайте в магічні дуелі та використовуйте закляття проти суперників.",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009460/94e85fb2cdbdc0a333c67ffb2fa52980e87b255b/header.jpg?t=1756190542",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Gun World VR",
+    "category": "-",
+    "desc": "Тренуйтеся зі зброєю та беріть участь у стрілецьких випробуваннях.",
+    "imageUrl": "https://img.itch.zone/aW1hZ2UvMTE3OTU1Ni82ODY5OTg5LnBuZw==/original/AYnBvy.png",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Guardian of Realms",
+    "category": "-",
+    "desc": "Захищайте королівство в пригодницькому VR-фентезі.",
+    "imageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2024/07/GoR_KeyArt.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Aim XR",
+    "category": "-",
+    "desc": "Тренуйте точність і швидкість у VR-стрільбі.",
+    "imageUrl": "https://i.ytimg.com/vi/jlLhuFiBAN4/maxresdefault.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "LES MILLS XR BODYCOMBAT",
+    "category": "-",
+    "desc": "Спалюйте калорії в інтенсивному VR-фітнесі під ритмічні вправи.",
+    "imageUrl": "https://i.ytimg.com/vi/WZFFRGVomR8/maxresdefault.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Road Ready VR",
+    "category": "-",
+    "desc": "Відчуйте себе за кермом у VR-поїздках і дорожніх ситуаціях.",
+    "imageUrl": "https://i.ytimg.com/vi/Hhyyu_7ZTbE/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgSig9MA8=&rs=AOn4CLD7EwxKbLIwCCkAfNj8LPZqwGOOnw",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Air Brigade 2",
+    "category": "-",
+    "desc": "Керуйте повітряними боями та маневруйте в небі.",
+    "imageUrl": "https://d16qp92u5x17m8.cloudfront.net/5637.pngie8y1661652152.png?quality=80&type=jpg&width=1920",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Project E",
+    "category": "-",
+    "desc": "Досліджуйте футуристичний світ із загадками та екшеном.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gLsXZ1Q84CshfR_DLOuVNFr8Bmgs_kLdTA&s",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Exer Gale",
+    "category": "-",
+    "desc": "Рухається як активна VR-гра для тренування тіла і реакції.",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2078200/a431509bad920c4f50d90f152710f87ef8d25976/ss_a431509bad920c4f50d90f152710f87ef8d25976.1920x1080.jpg?t=1773592688",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Water Ride Extreme",
+    "category": "-",
+    "desc": "Промчіться водними трасами з екстремальною швидкістю.",
+    "imageUrl": "https://play-lh.googleusercontent.com/20J6rzoMoqegzfSr3c_e7DVlHRkOOzVlGgr5WytLUeXID8flxpsgS_FMy12xhxtsbAg=w526-h296-rw",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Guardians Frontline",
+    "category": "-",
+    "desc": "Командуйте військами й відбивайте прибульців у стратегії з екшеном.",
+    "imageUrl": "https://fasttravelgames.com:1337/uploads/small_Guardians_Frontline_Screenshot_3_749da28df3.jpg",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Shooty Fruity",
+    "category": "-",
+    "desc": "Відстрілюйте фрукти й одночасно працюйте в кумедному VR-супермаркеті.",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/666100/capsule_616x353.jpg?t=1667464400",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "Exit Code",
+    "category": "-",
+    "desc": "Immersive Escape Rooms: Вибирайтеся з кімнат, розв’язуючи VR-головоломки.",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  },
+  {
+    "title": "",
+    "category": "-",
+    "desc": "",
+    "imageUrl": "",
+    "videoUrl": "-",
+    "admin": {
+      "headset": "VR: -",
+      "icon": "-",
+      "sysname": "-"
+    }
+  }
+]
