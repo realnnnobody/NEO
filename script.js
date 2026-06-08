@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // 1. Загрузка JSON с ESP32
     try {
-        const response = await fetch('/games.json');
+        const response = await fetch('./games.json');
         allGames = await response.json();
         renderGames('all'); // Отрисовываем все игры при старте
     } catch (error) {
