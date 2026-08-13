@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Розваги — NEO Lounge Bar</title>
-<meta name="description" content="VR, PlayStation 5, симулятор занурення, аерохокей, мафія та настільні ігри в NEO Lounge Bar.">
+<title>Галерея — NEO Lounge Bar</title>
+<meta name="description" content="Фото та відео залу NEO Lounge Bar.">
 <meta name="theme-color" content="#07080a">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,8 +26,8 @@
     <div class="nav__links">
       <a href="index.html">Головна</a>
       <a href="menu.html">Меню</a>
-      <a href="entertainment.html" aria-current="page">Розваги</a>
-      <a href="gallery.html">Галерея</a>
+      <a href="entertainment.html">Розваги</a>
+      <a href="gallery.html" aria-current="page">Галерея</a>
       <a href="#contacts">Контакти</a>
     </div>
     <div class="nav__call">
@@ -49,37 +49,22 @@
 
 <header class="page-header">
   <div class="container">
-    <span class="eyebrow eyebrow--pink">// РОЗВАГИ</span>
-    <h1 class="section-heading" style="font-size:clamp(32px,5vw,52px);">Розваги і тарифи</h1>
+    <span class="eyebrow">// АТМОСФЕРА</span>
+    <h1 class="section-heading" style="font-size:clamp(32px,5vw,52px);">Галерея</h1>
   </div>
 </header>
 
 <section class="section" style="padding-top:24px;">
   <div class="container">
-    <div class="tariff-grid" data-tariffs></div>
-  </div>
-</section>
-
-<section class="section" id="combo" style="padding-top:0;">
-  <div class="container">
-    <div class="combo" data-combo></div>
-  </div>
-</section>
-
-<section class="section" style="padding-top:0;">
-  <div class="container">
-    <div class="info-grid" data-info></div>
-  </div>
-</section>
-
-<section class="section" id="games" style="padding-top:24px;">
-  <div class="container">
-    <span class="eyebrow">// VR-БІБЛІОТЕКА</span>
-    <h2 class="section-heading">Обери гру</h2>
-    <p class="section-lede">4 шоломи Meta Quest 3, у кожного своя бібліотека. Натисни на прев'ю, щоб подивитись коротке відео гри.</p>
-    <div class="filters" data-filters style="margin-top:36px;"></div>
-    <div class="games-count" data-games-count></div>
-    <div class="games-grid" data-games-grid></div>
+    <div class="gallery-grid" data-gallery-grid>
+      <div class="gallery-empty">
+        <div class="gallery-empty__code">// GALLERY.DATA — EMPTY</div>
+        <p>Фото й відео залу зʼявляться тут зовсім скоро. А поки — заглядай в гості особисто або телефонуй, розкажемо й покажемо все на місці.</p>
+        <div class="stub__cta" style="margin-top:24px;">
+          <a href="tel:+380973788699" class="btn btn--fill">Зателефонувати</a>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -115,8 +100,6 @@
   </div>
 </footer>
 
-<script src="data/games-data.js"></script>
 <script src="js/main.js"></script>
-<script src="js/render-entertainment.js"></script>
 </body>
 </html>
